@@ -15,9 +15,6 @@ Una de sus propiedades es que son *memoryless*, es decir, el pasado no influye e
 
 En los modelos en cuestión el futuro se resume en el presente como un *estado*, el cual emerge con el paso del tiempo con cierta probabilidad
 
-Una cadena de Markov discreta, donde se define como
-
-$$                                                                                                                                $$
 
 ------------------------------------------------------------------------
 
